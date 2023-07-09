@@ -7,7 +7,7 @@ Fully Responsive hairdresser website created using Html, Css &amp; javascript
 - JS
 
 # Live Site
-- 
+- https://barbershop-mk.netlify.app/
 
 # Screenshots
 ![1](https://github.com/Evilking009/Hairdresser-website/assets/4027728/9b5c0d1f-8d52-474c-8c66-7071a51acde6)
